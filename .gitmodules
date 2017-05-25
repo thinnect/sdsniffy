@@ -1,0 +1,16 @@
+[submodule "tinyos-main"]
+	path = tinyos-main
+	url = git@github.com:tinyos/tinyos-main.git
+	branch = master
+[submodule "thinnect.tos-platforms"]
+	path = thinnect.tos-platforms
+	url = git@github.com:thinnect/tos-platforms.git
+	branch = master
+[submodule "thinnect.tos-groundlib"]
+	path = thinnect.tos-groundlib
+	url = git@github.com:thinnect/tos-groundlib.git
+	branch = master
+[submodule "thinnect.tos-watchdogs"]
+	path = thinnect.tos-watchdogs
+	url = git@github.com:thinnect/tos-watchdogs.git
+	branch = master
